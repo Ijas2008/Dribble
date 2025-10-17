@@ -42,7 +42,6 @@ ijas.html
             font-family: 'Pacifico', cursive;
             margin: 0;
             padding: 0;
-            background-image: url('your-image-url.jpg'); 
             background-size: cover; 
             background-position: center; 
             background-repeat: no-repeat; 
