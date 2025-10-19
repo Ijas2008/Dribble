@@ -335,8 +335,8 @@ footer {
 
 ## OUTPUT:
 
-![alt text](<Screenshot 2025-10-16 150400.png>)
-![alt text](<Screenshot 2025-10-16 150425.png>)
+![alt text](<Screenshot 2025-10-19 225823.png>)
+![alt text](<Screenshot 2025-10-19 225850.png>)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
