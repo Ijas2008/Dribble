@@ -42,6 +42,7 @@ ijas.html
             font-family: 'Pacifico', cursive;
             margin: 0;
             padding: 0;
+            background-image: url('your-image-url.jpg'); 
             background-size: cover; 
             background-position: center; 
             background-repeat: no-repeat; 
@@ -98,6 +99,7 @@ ijas.html
                     <div class="card-body text-center">
                         <p class="card-title">RED FERRARI EDITION</p>
                         <small class="text-muted">SNEAKERS</small>
+                        <small class="text-muted">$500</small>
                     </div>
                 </div>
             </div>
@@ -107,6 +109,7 @@ ijas.html
                     <div class="card-body text-center">
                         <p class="card-title">BLACK FERRARI EDITION</p>
                         <small class="text-muted">SNEAKERS</small>
+                        <small class="text-muted">$500</small>
                     </div>
                 </div>
             </div>
@@ -116,6 +119,7 @@ ijas.html
                     <div class="card-body text-center">
                         <p class="card-title">WHITE BMW EDITION</p>
                         <small class="text-muted">SNEAKERS</small>
+                        <small class="text-muted">$700</small>
                     </div>
                 </div>
             </div>
@@ -125,6 +129,7 @@ ijas.html
                     <div class="card-body text-center">
                         <p class="card-title">BLACK BMW EDITION</p>
                         <small class="text-muted">SNEAKERS</small>
+                        <small class="text-muted">$700</small>
                     </div>
                 </div>
             </div>
@@ -135,6 +140,7 @@ ijas.html
                     <div class="card-body text-center">
                         <p class="card-title">AMG WHITE EDITION</p>
                         <small class="text-muted">SNEAKERS</small>
+                        <small class="text-muted">$1000</small>
                     </div>
                 </div>
             </div>
@@ -144,6 +150,7 @@ ijas.html
                     <div class="card-body text-center">
                         <p class="card-title">AMG BLACK EDITION</p>
                         <small class="text-muted">SNEAKERS</small>
+                        <small class="text-muted">$1000</small>
                     </div>
                 </div>
             </div>
@@ -153,6 +160,7 @@ ijas.html
                     <div class="card-body text-center">
                         <p class="card-title">GOLDEN EDITION</p>
                         <small class="text-muted">SNEAKERS</small>
+                        <small class="text-muted">$5000</small>
                     </div>
                 </div>
             </div>
@@ -162,6 +170,7 @@ ijas.html
                     <div class="card-body text-center">
                         <p class="card-title">NITRO EDITION</p>
                         <small class="text-muted">SNEAKERS</small>
+                        <small class="text-muted">$6000</small>
                     </div>
                 </div>
             </div>
